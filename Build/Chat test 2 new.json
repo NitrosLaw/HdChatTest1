@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ChatRoom Test",
+"productVersion": "0.1",
+"dataUrl": "Chat test 2 new.data.unityweb",
+"wasmCodeUrl": "Chat test 2 new.wasm.code.unityweb",
+"wasmFrameworkUrl": "Chat test 2 new.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
